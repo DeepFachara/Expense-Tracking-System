@@ -51,7 +51,7 @@ namespace ExpenseTracking
             Console.WriteLine("Expense ID   : " + expenseId);
             Console.WriteLine("Category     : " + category);
             Console.WriteLine("Amount       : " + amount);
-            Console.WriteLine("Payment Mode : " + paymentMode);
+            Console.WriteLine("Payment Mode(Cash/UPI/Card) : " + paymentMode);
             Console.WriteLine("Date         : " + date);
         }
     }
