@@ -1,0 +1,8 @@
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\bin\Debug\ExpenseTracking.exe.config
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\bin\Debug\ExpenseTracking.exe
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\bin\Debug\ExpenseTracking.pdb
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\obj\Debug\ExpenseTracking.csproj.AssemblyReference.cache
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\obj\Debug\ExpenseTracking.csproj.CoreCompileInputs.cache
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\obj\Debug\ExpenseTracking.exe
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\obj\Debug\ExpenseTracking.pdb
+C:\Users\Deep\OneDrive\Desktop\.NET\ExpenseTracking\ExpenseTracking\obj\Debug\ExpenseTracking.exe.config
