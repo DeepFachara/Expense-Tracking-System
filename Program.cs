@@ -38,7 +38,7 @@ namespace ExpenseTracking
                 throw new Exception("Amount cannot be negative.");
             }
 
-            Console.Write("Enter Payment Mode : ");
+            Console.Write("Enter Payment Mode(Cash/UPI/Card : ");
             paymentMode = Console.ReadLine();
 
             date = DateTime.Now;
@@ -51,7 +51,7 @@ namespace ExpenseTracking
             Console.WriteLine("Expense ID   : " + expenseId);
             Console.WriteLine("Category     : " + category);
             Console.WriteLine("Amount       : " + amount);
-            Console.WriteLine("Payment Mode(Cash/UPI/Card) : " + paymentMode);
+            Console.WriteLine("Payment Mode : " + paymentMode);
             Console.WriteLine("Date         : " + date);
         }
     }
